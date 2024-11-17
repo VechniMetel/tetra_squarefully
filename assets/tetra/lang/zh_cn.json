@@ -1,4 +1,8 @@
 {
+    "tetra/schematic/bow/stave/straight_stave.name": "反曲弓",
+    "tetra/schematic/bow/stave/straight_stave.description": "用给定材料合成的反曲弓弓材来替换弓材。\n \n材料§f硬度§r增加§f力量§r和§f拉弓耗时§r。\n材料§f韧性§r增加§f力量§r并略微缩短§f拉弓耗时§r。",
+    "tetra/schematic/bow/stave/straight_stave.slot1": "材料",
+    "tetra.module.bow/straight_stave.item_name": "反曲弓",
     "tetra.module.bow/straight_stave.name": "反曲弓弓材",
     "tetra.module.bow/straight_stave.description": "一根反曲弓弓材。",
     "tetra.module.bow/straight_stave.material_name": "%s反曲弓弓材",
