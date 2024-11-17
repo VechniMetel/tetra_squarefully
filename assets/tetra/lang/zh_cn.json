@@ -1,0 +1,16 @@
+{
+    "tetra.module.bow/straight_stave.name": "反曲弓弓材",
+    "tetra.module.bow/straight_stave.description": "一根反曲弓弓材。",
+    "tetra.module.bow/straight_stave.material_name": "%s反曲弓弓材",
+    "tetra.module.bow/straight_stave.prefix": "%s",
+    "tetra.variant.straight_stave/stick": "简易反曲弓弓材",
+    "tetra/schematic/bow/stave/recurve_stave.name": "战术反曲弓弓材",
+    "tetra/schematic/bow/stave/recurve_stave.description": "用给定材料合成的战术反曲弓弓材来替换弓材。战术反曲弓一般有着比其他弓更快的拉弓速度。\n \n材料§f硬度§r增加§f力量§r和§f拉弓耗时§r。\n材料§f韧性§r增加§f力量§r并略微缩短§f拉弓耗时§r。",
+    "tetra/schematic/bow/stave/recurve_stave.slot1": "材料",
+    "tetra.module.bow/recurve_stave.item_name": "战术反曲弓",
+    "tetra.module.bow/recurve_stave.name": "战术反曲弓弓材",
+    "tetra.module.bow/recurve_stave.description": "一根战术反曲弓弓材。战术反曲弓一般有着比其他弓更快的拉弓速度。",
+    "tetra.module.bow/recurve_stave.material_name": "%s战术反曲弓弓材",
+    "tetra.module.bow/recurve_stave.prefix": "%s",
+    "tetra.variant.recurve_stave/stick": "简易战术反曲弓弓材"
+}
