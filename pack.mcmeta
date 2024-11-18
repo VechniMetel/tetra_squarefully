@@ -1,6 +1,6 @@
 {
   "pack":{
-    "description":"适配XK方纹的tetra改装材质",
+    "description":"适配XK方纹的tetra改装材质，请置于方纹主包上方",
     "pack_format":15
   }
 }
